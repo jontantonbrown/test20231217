@@ -8,6 +8,6 @@ def main(version):
 
 
 if __name__ == '__main__':
-    version = 1
+    version = 2
     main(version)
 
