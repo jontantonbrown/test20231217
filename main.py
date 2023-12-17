@@ -4,10 +4,10 @@ def main(version):
     :param version:
     :return:
     """
-    print(f'This is version {version}')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'This is version {version}')
 
 
 if __name__ == '__main__':
-    version = 2
+    version = 3
     main(version)
 
